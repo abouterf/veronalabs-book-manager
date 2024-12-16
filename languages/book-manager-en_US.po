@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-16T02:10:38+00:00\n"
+"PO-Revision-Date: 2024-12-16T02:10:38+00:00\n"
+"Language: \n"
+
+#. Plugin Name of the plugin
+#: book-manager.php
+msgid "Book Info Management"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: book-manager.php
+msgid "https://www.veronalabs.com"
+msgstr ""
+
+#. Description of the plugin
+#: book-manager.php
+msgid "WordPress plugin that manages book information, integrates with the WordPress admin interface."
+msgstr ""
+
+#. Author of the plugin
+#: book-manager.php
+msgid "Erfan Kargosha"
+msgstr ""
+
+#. Author URI of the plugin
+#: book-manager.php
+msgid "https://veronalabs.com"
+msgstr ""
+
+#: includes/Admin/Menu/BookInfoMenu.php:28
+#: includes/Admin/Menu/BookInfoMenu.php:29
+msgid "Books Info"
+msgstr ""
+
+#: includes/Admin/Menu/BookInfoMenu.php:44
+#: includes/Admin/Page/BooksTablePage.php:146
+msgid "Books Info Table"
+msgstr ""
+
+#: includes/Admin/Page/BooksTablePage.php:17
+#: includes/CPT/BookPostType.php:44
+msgid "Book"
+msgstr ""
+
+#: includes/Admin/Page/BooksTablePage.php:18
+#: includes/CPT/BookPostType.php:43
+msgid "Books"
+msgstr ""
+
+#: includes/Admin/Page/BooksTablePage.php:27
+msgid "Post ID"
+msgstr ""
+
+#: includes/Admin/Page/BooksTablePage.php:28
+#: includes/CPT/MetaBox/BookMetaBox.php:21
+msgid "ISBN"
+msgstr ""
+
+#: includes/Admin/Page/BooksTablePage.php:62
+msgid "Edit"
+msgstr ""
+
+#: includes/Admin/Page/BooksTablePage.php:67
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/Admin/Page/BooksTablePage.php:68
+#: includes/Admin/Page/BooksTablePage.php:82
+msgid "Delete"
+msgstr ""
+
+#: includes/Admin/Page/BooksTablePage.php:148
+#: includes/CPT/BookPostType.php:50
+msgid "Search Books"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:45
+#: includes/CPT/BookPostType.php:46
+msgid "Add New Book"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:47
+msgid "Edit Book"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:48
+msgid "New Book"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:49
+msgid "View Book"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:51
+msgid "No books found"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:52
+msgid "No books found in trash"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:53
+msgid "All Books"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:54
+msgid "Book Archives"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:68
+msgid "Publishers"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:69
+msgid "Publisher"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:70
+msgid "Search Publishers"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:71
+msgid "All Publishers"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:72
+msgid "Edit Publisher"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:73
+msgid "Update Publisher"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:74
+msgid "Add New Publisher"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:75
+msgid "New Publisher Name"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:87
+msgid "Authors"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:88
+msgid "Author"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:89
+msgid "Search Authors"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:90
+msgid "All Authors"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:91
+msgid "Edit Author"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:92
+msgid "Update Author"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:93
+msgid "Add New Author"
+msgstr ""
+
+#: includes/CPT/BookPostType.php:94
+msgid "New Author Name"
+msgstr ""
+
+#: includes/CPT/MetaBox/BookMetaBox.php:11
+msgid "Book Details"
+msgstr ""
+
+#. translators: %s: post type slug
+#: includes/CPT/MetaBox/MetaBoxFactory.php:17
+msgid "No meta box handler found for post type: %s"
+msgstr ""

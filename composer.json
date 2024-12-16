@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "psr-4": {
+      "BookManager\\": "includes"
+    }
+  },
+  "require": {
+    "veronalabs/rabbit": "^1.5"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^11.5",
+    "brain/monkey": "^2.6"
+  }
+}
