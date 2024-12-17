@@ -1,13 +1,12 @@
 <?php
 
 
-namespace BookManager\Controllers;
+namespace BookManager\Repositories;
 
 use Illuminate\Database\Capsule\Manager as DB;
-use Illuminate\Database\Query\Builder;
 use Illuminate\Support\Collection;
 
-class BookController
+class BookRepository
 {
 
     /**

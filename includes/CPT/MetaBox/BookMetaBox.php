@@ -2,7 +2,7 @@
 
 namespace BookManager\CPT\MetaBox;
 
-use BookManager\Controllers\BookController;
+use BookManager\Repositories\BookRepository;
 
 class BookMetaBox extends AbstractMetaBox
 {
@@ -40,7 +40,7 @@ class BookMetaBox extends AbstractMetaBox
         }
 
         //Save isbn in table
-        $existingRecord = BookController::readByPostId($postId);
-        $existingRecord ? BookController::update($postId, $isbn) : BookController::create($postId, $isbn);
+        $existingRecord = BookRepository::readByPostId($postId);
+        $existingRecord ? BookRepository::update($postId, $isbn) : BookRepository::create($postId, $isbn);
     }
 }
